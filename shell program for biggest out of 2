@@ -1,0 +1,9 @@
+echo "Enter the first number\n”
+read a
+echo "Enter the second number\n "
+read b
+if [$a –gt $b]
+echo “ $a is greater”
+else
+echo “$b is greater”
+if
